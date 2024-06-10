@@ -1,0 +1,113 @@
+.Sectionfirstbox{
+background-color:#fbfbfb;
+display: flex;
+justify-content: space-between;
+padding: 20px 40px;
+
+}
+
+.lessonsbox{
+width:270px ;
+background-color: white;
+border: 1px solid white;
+border-radius: 30px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 30px;
+}
+
+.gp{
+    color: orange;
+    font-size: 20px ;
+}
+
+.i{
+width: 50px;
+
+
+}
+
+.gpp{
+font-size: 15px;
+
+
+}
+
+
+.mgp{
+
+width: 600px;
+
+}
+.red{
+display: inline-block;
+background-color: white;
+border-radius: 40px;
+padding:5px 10px;
+}
+
+
+.box{
+max-width: 700px;
+display: flex;
+flex-wrap: wrap;
+gap: 6px;
+}
+
+.a{
+    background-color: red;
+    
+    }
+
+.buttonbox{
+width: 300px;
+
+}
+
+.p{
+  margin-left: 500px;
+
+}
+
+.p3{
+  display: inline;
+
+}
+
+.p4{
+display: inline;
+
+}
+
+.aboutus{
+display: flex;
+flex-direction: column;
+gap: 40px;
+}
+
+.Forboxis{
+display: flex;
+justify-content: space-between;
+
+}
+
+.mapdiv{
+width: 600px;
+display: flex;
+justify-content: space-between;
+border: 0.5px solid rgb(255, 255, 255);
+border-radius: 30px;
+padding: 10px;
+box-shadow: 2px 0px 10px rgb(196, 195, 195);
+margin-right: 50px;
+}
+
+.compimg{
+  color: orange;
+}
+.b{
+  margin-top: 50px;
+  margin-left: 600px;
+}

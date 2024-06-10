@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.navimage{
+width: 200px;
+
+
+
+}
+
+ul{
+    display: flex;
+}
+
+li{
+margin-left:20px;
+list-style: none;
+}
+
+li:hover{
+    border-bottom: 1px  solid orange;
+   
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    left:0 ;
+}

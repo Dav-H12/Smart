@@ -1,0 +1,15 @@
+.p1{
+ font-size:29px ;
+ margin: 10px;
+}
+.p2{
+  margin: 10px;
+
+}
+
+.Header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px;
+}

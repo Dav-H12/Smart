@@ -1,0 +1,94 @@
+.e{
+   font-size:30px;
+   margin-top: 30px;
+   margin-left:500px ;
+
+}
+
+.t{
+
+margin-top: 10px;
+margin-left: 450px;
+
+
+}
+
+.it{
+margin-left: 50px;
+
+}
+
+.trainer{
+width: 200px;
+background-color: rgb(255, 255, 255);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+
+.imgtrain{
+width: 200px;
+border-radius: 100000px;
+
+}
+
+.trainers{
+background-color:#fbfbfb ;
+
+
+
+}
+
+.trainerstrainers{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    gap: 10px;
+    margin-left: 130px;
+}
+
+.orange{
+font-size: 20px;
+color: orange;
+}
+
+.tich{
+font-size: 15px;
+
+
+}
+
+
+.bu{
+   
+    margin: 40px 0px 40px 590px;
+
+}
+
+
+.g{
+font-size: 30px;
+margin-left: 580px;
+
+}
+
+.v{
+    margin-left: 540px;
+}
+
+.t5{
+    margin: 50px;
+}
+.t6{
+    margin: 50px;
+}
+.t7{
+    margin: 50px;
+}
+
+.textandimg{
+    display: flex;
+    justify-content: space-between;
+}

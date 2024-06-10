@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.Navbutton{
+display: inline-block;
+background-color: rgb(255, 180, 42);
+border: 1px solid rgb(255,180,42);
+border-radius: 37px;
+color: white;
+list-style: none;
+padding: 10px 15px 10px 15px;
+}
+
+.Navbutton:hover{
+background-color: white;
+color: black;
+
+
+}
+
+
+
+
+
+
+
+
+
